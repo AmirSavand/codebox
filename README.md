@@ -1,5 +1,10 @@
-# [CodeBox](https://codebox.savandbros.com)
+# Codebox
 
-Keep your code blocks from your clipboard handy.
+![GitHub Release](https://img.shields.io/github/v/release/AmirSavand/codebox)
 
-- [View home page and get CodeBox](https://codebox.savandbros.com).
+- 🏠 [Homepage](https://savandbros.com/codebox/)
+- 💾 [Download](https://github.com/AmirSavand/codebox/releases/latest)
+
+---
+
+*2024-present &copy; Savand Bros*
